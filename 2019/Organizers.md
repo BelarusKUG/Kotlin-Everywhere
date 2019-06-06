@@ -8,4 +8,3 @@
 * [Pavel Bogretsov](mailto:pavel.bogretsov@gmail.com)
 * [Pavel Shchahelski](mailto:pshchahelski@gmail.com)
 * [Ruslan Ibragimov](mailto:ruslan@ibragimov.by)
-* [Siarhei Krukau](mailto:Siarhei.Krukau@gmail.com)
