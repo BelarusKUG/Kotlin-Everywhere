@@ -66,6 +66,8 @@ We are interested, but not limited in the following topics:
 * Kotlin on Android
 * Kotlin/Native: iOS, IoT, Desktop, etc
 * Kotlin/JS: Writing Frontend and Backend applications
+* Kotlin Multiplatform Projects
+* Kotlin Coroutines
 
 Your proposals should include as many details as possible about the topic and format for the presentation. Vague and overly broad proposals don’t showcase your skills and knowledge. The more you can tell us, the more likely the proposal will be selected.
 ```
