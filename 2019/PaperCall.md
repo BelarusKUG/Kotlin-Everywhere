@@ -118,7 +118,7 @@ This concerns [74 countries' citizens](http://mfa.gov.by/en/visa/visafreetravel/
 
 ## Talk Tags
 
-Kotlin, Google Cloud Platform, Android, Kotlin/Native, Kotlin/JS
+Kotlin, Google Cloud Platform, Android, Kotlin/Native, Kotlin/JS, Kotlin/JVM, Kotlin Multiplatform, Coroutines, General
 
 ## Which types of talks will you accept?
 
