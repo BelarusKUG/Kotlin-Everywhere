@@ -105,11 +105,11 @@ If you have any questions, please, email team@bkug.by
 _Please describe what your travel policy for speakers is. Do you offer flights, accommodation, nothing? Please let them know._
 
 ```
-We are doing our best to reimburse flight and accommodation. However our ability is limited. So, if you feel that free conference ticket is enough to join us as a speaker, or do you have company that can cover your travel expenses, please let us know. We will for sure have to manage carefully expenses, so any help from your side will be greatly appreciated. At the same time we will do our best to reimburse as many speakers’ expenses as possible. Please let us know which statement below applies to you: 
+We are doing our best to reimburse flight and accommodation. However our ability is limited. So, if you have company that can cover your travel expenses, please let us know. We will for sure have to manage carefully expenses, so any help from your side will be greatly appreciated. At the same time we will do our best to reimburse as many speakers’ expenses as possible. Please let us know which statement below applies to you: 
 
 * I need flight and/or accommodation reimbursement 
 * It would be great to have flight and/or accommodation reimbursement, but I will come on my own if needed 
-* I will fly on my own or my company will cover flight. Free conference ticket is enough for me.
+* I will fly on my own or my company will cover flight.
 
 If you fly to Minsk airport from any country except Russia & your stay will last up to 30 days (including arrival & departure dates), the visa will be stamped to you free of charge at Minsk airport!
 
