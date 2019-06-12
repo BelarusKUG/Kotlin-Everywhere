@@ -77,14 +77,11 @@ Your proposals should include as many details as possible about the topic and fo
 _This is where you can request additional information from your speakers. If you leave this field blank, it won't show up on the CFP._
 
 ```
-* Please tell us your name
 * Please provide a link to a video of a previous speaking engagement
 * Please share your twitter, github link, your personal website or blog
-* Please write your short bio
 * Your employment & position
 * Your e-mail address
 * Do you require any special meals, assistance, etc?
-* What is your T-shirt size?
 * Can your company cover your travel & accommodation costs? (we grant partner status to companies who do that)
 ```
 
